@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-gisela.png" width="100%" alt="Gisela Keidel - Backend, Data Engineering e AI">
+</p>
+
 # Olá, eu sou Gisela Keidel! 👋
 
 ### Desenvolvedora Backend | Engenharia de Dados | Data Analytics | Inteligência Artificial
